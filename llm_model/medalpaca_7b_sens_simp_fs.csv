@@ -1,0 +1,1020 @@
+cell_id,prompt,answer,output70
+ACH-000006,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is JW-7-24-1. The drug SMILES structure is COC1=CC(=CC(=C1)C2=CC3=C4C(=CN=C3C=C2)C=CC(=O)N4C5=CC(=C(C=C5)N6CCNCC6)C(F)(F)F)OC. Drug target is LCK. Drug target pathway is Other, kinases.
+The mutations of the cell line are ASXL1, FLT3, MAP3K1, NOTCH1, TP53, U2AF1.
+Drug Sensitivity: ?",Sensitive,<</SYS>>
+ACH-000006,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is NVP-TAE684. The drug SMILES structure is CC(C)S(=O)(=O)C1=CC=CC=C1NC2=NC(=NC=C2Cl)NC3=C(C=C(C=C3)N4CCC(CC4)N5CCN(CC5)C)OC. Drug target is ALK. Drug target pathway is RTK signaling.
+The mutations of the cell line are ASXL1, FLT3, MAP3K1, NOTCH1, TP53, U2AF1.
+Drug Sensitivity: ?",Resistant,"<<SYS>>Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line: [Sensitive/Resistant]<</SYS>> <<EXAMPLE>>Example 4:
+
+Drug and cell line mutations: 
+The drug is XMD8-92. The drug SMILES structure is CCOC1=C(C=CC(=C1)N2CCC(CC2)O)NC3=NC=C4C(=N3)N(C5=CC=CC=C5C(=O)N4C)C. Drug target is ERK5. Drug target pathway is ERK MAPK signaling.
+The mutations of the cell line are ARID1A, BCOR, BRAF, ETV6, GATA3, GNAS, HGF, IDH1, IKZF1, MLL2, MED12, NKX2-1, NOTCH1, PIK3CA, POLD1, PTEN, RBM10, SMARCA4.
+Drug Sensitivity: Resistant
+
+Example 5:
+
+Drug and cell line mutations: 
+The drug is XMD14-99. The drug SMILES structure is CN1CCN(CC1)C2=CC(=C(C=C2)NC3=NC(=C(S3)C(=O)C4=C(C=CC=C4Cl)Cl)N)OC. Drug target is ALK, CDK7, LTK, others. Drug target pathway is Other, kinases.
+The mutations of the cell line are APC, CARD11, EPHA3, FANCG, GABRA6, GATA4, KDM6A, NOTCH3, TP53.
+Drug Sensitivity: Resistant
+
+Example 6:
+
+Drug and cell line mutations: 
+The drug is QL-X-138. The drug SMILES structure is CC1=C(C=C(C=C1)N2C(=O)C=CC3=CN=C4C=CC(=CC4=C32)C5=CNN=C5)NC(=O)C=C. Drug target is BTK. Drug target pathway is Other, kinases.
+The mutations of the cell line are ABL1, APC, ARID1A, ASXL1, ATM, BCR, CDKN2A, CIC, CREBBP, EP300, ERBB2, ETV6, HNF1A, KDM6A, KEAP1, MLL2, MAPK1, MST1R, MTOR, PIK3C2G, PIK3CA, PTPN11, SF3B1, SPOP, TET2, TP53, WHSC1.
+Drug Sensitivity: Resistant<</EXAMPLE>>"
+ACH-000006,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is KIN001-244. The drug SMILES structure is C1=CC=C(C=C1)[C@H](COC2=CC3=C(C=C2)NC(=O)N3)NC(=O)C4=CC=CN(C4=O)CC5=CC(=C(C=C5)F)F. Drug target is PDK1. Drug target pathway is Other, kinases.
+The mutations of the cell line are ASXL1, FLT3, MAP3K1, NOTCH1, TP53, U2AF1.
+Drug Sensitivity: ?",Resistant,<</SYS>>
+ACH-000006,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is LINSITINIB. The drug SMILES structure is CC1(CC(C1)C2=NC(=C3N2C=CN=C3N)C4=CC5=C(C=C4)C=CC(=N5)C6=CC=CC=C6)O. Drug target is IGF1R. Drug target pathway is IGF1R signaling.
+The mutations of the cell line are ASXL1, FLT3, MAP3K1, NOTCH1, TP53, U2AF1.
+Drug Sensitivity: ?",Sensitive,<<SYS>>The sensitivity of the drug on the cell line is unknown. Please provide the drug sensitivity information.
+ACH-000006,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is UNC0642. The drug SMILES structure is CC(C)N1CCC(CC1)NC2=NC(=NC3=CC(=C(C=C32)OC)OCCCN4CCCC4)N5CCC(CC5)(F)F. Drug target is G9A, GLP. Drug target pathway is Chromatin histone methylation.
+The mutations of the cell line are ASXL1, FLT3, MAP3K1, NOTCH1, TP53, U2AF1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000006,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is JW-7-52-1. The drug SMILES structure is CCC(=O)N1CCN(CC1)C2=C(C=C(C=C2)N3C(=O)C=CC4=CN=C5C=CC(=CC5=C43)C6=CC7=CC=CC=C7N=C6)C(F)(F)F. Drug target is MTOR. Drug target pathway is PI3K/MTOR signaling.
+The mutations of the cell line are ASXL1, FLT3, MAP3K1, NOTCH1, TP53, U2AF1.
+Drug Sensitivity: ?",Resistant,
+ACH-000006,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is BOSUTINIB. The drug SMILES structure is CN1CCN(CC1)CCCOC2=C(C=C3C(=C2)N=CC(=C3NC4=CC(=C(C=C4Cl)Cl)OC)C#N)OC. Drug target is SRC, ABL, TEC. Drug target pathway is Other, kinases.
+The mutations of the cell line are ASXL1, FLT3, MAP3K1, NOTCH1, TP53, U2AF1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000006,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is DOXORUBICIN. The drug SMILES structure is C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C(C4=C(C(=C23)O)C(=O)C5=C(C4=O)C=CC=C5OC)O)(C(=O)CO)O)N)O. Drug target is Anthracycline. Drug target pathway is DNA replication.
+The mutations of the cell line are ASXL1, FLT3, MAP3K1, NOTCH1, TP53, U2AF1.
+Drug Sensitivity: ?",Resistant,
+ACH-000006,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is YK-4-279. The drug SMILES structure is COC1=CC=C(C=C1)C(=O)CC2(C3=C(C=CC(=C3NC2=O)Cl)Cl)O. Drug target is RNA helicase A. Drug target pathway is Other.
+The mutations of the cell line are ASXL1, FLT3, MAP3K1, NOTCH1, TP53, U2AF1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000006,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is GDC-0810. The drug SMILES structure is CCC(=C(C1=CC=C(C=C1)C=CC(=O)O)C2=CC3=C(C=C2)NN=C3)C4=C(C=C(C=C4)F)Cl. Drug target is ESR1, ESR2. Drug target pathway is Hormone-related.
+The mutations of the cell line are ASXL1, FLT3, MAP3K1, NOTCH1, TP53, U2AF1.
+Drug Sensitivity: ?",Resistant,
+ACH-000006,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is ABT-737. The drug SMILES structure is CN(C)CC[C@H](CSC1=CC=CC=C1)NC2=C(C=C(C=C2)S(=O)(=O)NC(=O)C3=CC=C(C=C3)N4CCN(CC4)CC5=CC=CC=C5C6=CC=C(C=C6)Cl)[N+](=O)[O-]. Drug target is Unknown. Drug target pathway is Unknown.
+The mutations of the cell line are ASXL1, FLT3, MAP3K1, NOTCH1, TP53, U2AF1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000006,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is MPS-1-IN-1. The drug SMILES structure is CC(C)S(=O)(=O)C1=CC=CC=C1NC2=CC(=NC3=C2C=CN3)NC4=C(C=C(C=C4)N5CCC(CC5)O)OC. Drug target is MPS1. Drug target pathway is Mitosis.
+The mutations of the cell line are ASXL1, FLT3, MAP3K1, NOTCH1, TP53, U2AF1.
+Drug Sensitivity: ?",Resistant,
+ACH-000006,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is ROSCOVITINE. The drug SMILES structure is CCC(CO)NC1=NC(=C2C(=N1)N(C=N2)C(C)C)NCC3=CC=CC=C3. Drug target is CDK2, CDK7, CDK9. Drug target pathway is Cell cycle.
+The mutations of the cell line are ASXL1, FLT3, MAP3K1, NOTCH1, TP53, U2AF1.
+Drug Sensitivity: ?",Resistant,
+ACH-000006,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is SCH772984. The drug SMILES structure is O=C([C@H]1CN(CC(N2CCN(C3=CC=C(C4=NC=CC=N4)C=C3)CC2)=O)CC1)NC5=CC6=C(NN=C6C7=CC=NC=C7)C=C5. Drug target is ERK1, ERK2. Drug target pathway is ERK MAPK signaling.
+The mutations of the cell line are ASXL1, FLT3, MAP3K1, NOTCH1, TP53, U2AF1.
+Drug Sensitivity: ?",Resistant,
+ACH-000006,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is OTX015. The drug SMILES structure is CC1=C(SC2=C1C(=N[C@H](C3=NN=C(N32)C)CC(=O)NC4=CC=C(C=C4)O)C5=CC=C(C=C5)Cl)C. Drug target is BRD2, BRD3, BRD4. Drug target pathway is Chromatin other.
+The mutations of the cell line are ASXL1, FLT3, MAP3K1, NOTCH1, TP53, U2AF1.
+Drug Sensitivity: ?",Resistant,
+ACH-000006,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is YM-201636. The drug SMILES structure is C1COCCN1C2=NC(=NC3=C2OC4=C3C=CC=N4)C5=CC(=CC=C5)NC(=O)C6=CN=C(C=C6)N. Drug target is PIKFYVE. Drug target pathway is PI3K/MTOR signaling.
+The mutations of the cell line are ASXL1, FLT3, MAP3K1, NOTCH1, TP53, U2AF1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000006,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is TRAMETINIB. The drug SMILES structure is CC1=C2C(=C(N(C1=O)C)NC3=C(C=C(C=C3)I)F)C(=O)N(C(=O)N2C4=CC(=CC=C4)NC(=O)C)C5CC5. Drug target is MEK1, MEK2. Drug target pathway is ERK MAPK signaling.
+The mutations of the cell line are ASXL1, FLT3, MAP3K1, NOTCH1, TP53, U2AF1.
+Drug Sensitivity: ?",Resistant,
+ACH-000006,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is PI-103. The drug SMILES structure is C1COCCN1C2=NC(=NC3=C2OC4=C3C=CC=N4)C5=CC(=CC=C5)O. Drug target is PI3Kalpha, DAPK3, CLK4, PIM3, HIPK2. Drug target pathway is Other, kinases.
+The mutations of the cell line are ASXL1, FLT3, MAP3K1, NOTCH1, TP53, U2AF1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000006,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is SHIKONIN. The drug SMILES structure is CC(=CC[C@H](C1=CC(=O)C2=C(C=CC(=C2C1=O)O)O)O)C. Drug target is not defined. Drug target pathway is Other.
+The mutations of the cell line are ASXL1, FLT3, MAP3K1, NOTCH1, TP53, U2AF1.
+Drug Sensitivity: ?",Resistant,
+ACH-000006,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is I-BET-762. The drug SMILES structure is CCNC(=O)C[C@H]1C2=NN=C(N2C3=C(C=C(C=C3)OC)C(=N1)C4=CC=C(C=C4)Cl)C. Drug target is BRD2, BRD3, BRD4. Drug target pathway is Chromatin other.
+The mutations of the cell line are ASXL1, FLT3, MAP3K1, NOTCH1, TP53, U2AF1.
+Drug Sensitivity: ?",Resistant,
+ACH-000006,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is QS-11. The drug SMILES structure is C1CC2=C(C1)C=C(C=C2)OC3=NC(=C4C(=N3)N(C=N4)CC5=CC=C(C=C5)C6=CC=CC=C6)NC(CC7=CC=CC=C7)CO. Drug target is Unknown. Drug target pathway is Unknown.
+The mutations of the cell line are ASXL1, FLT3, MAP3K1, NOTCH1, TP53, U2AF1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000006,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is GW-843682X. The drug SMILES structure is COC1=C(C=C2C(=C1)N=CN2C3=CC(=C(S3)C(=O)N)OCC4=CC=CC=C4C(F)(F)F)OC. Drug target is Unknown. Drug target pathway is Unknown.
+The mutations of the cell line are ASXL1, FLT3, MAP3K1, NOTCH1, TP53, U2AF1.
+Drug Sensitivity: ?",Resistant,
+ACH-000006,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is ACY-1215. The drug SMILES structure is C1=CC=C(C=C1)N(C2=CC=CC=C2)C3=NC=C(C=N3)C(=O)NCCCCCCC(=O)NO. Drug target is HDAC6. Drug target pathway is Chromatin histone acetylation.
+The mutations of the cell line are ASXL1, FLT3, MAP3K1, NOTCH1, TP53, U2AF1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000006,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is KIN001-042. The drug SMILES structure is C1=CC(=CC(=C1)I)CSC2=NN=C(O2)C3=CC=NC=C3. Drug target is GSK3B. Drug target pathway is WNT signaling.
+The mutations of the cell line are ASXL1, FLT3, MAP3K1, NOTCH1, TP53, U2AF1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000006,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is MITOXANTRONE. The drug SMILES structure is C1=CC(=C2C(=C1NCCNCCO)C(=O)C3=C(C=CC(=C3C2=O)O)O)NCCNCCO. Drug target is TOP2. Drug target pathway is DNA replication.
+The mutations of the cell line are ASXL1, FLT3, MAP3K1, NOTCH1, TP53, U2AF1.
+Drug Sensitivity: ?",Resistant,
+ACH-000006,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is NIRAPARIB. The drug SMILES structure is C1C[C@H](CNC1)C2=CC=C(C=C2)N3C=C4C=CC=C(C4=N3)C(=O)N. Drug target is PARP1, PARP2. Drug target pathway is Genome integrity.
+The mutations of the cell line are ASXL1, FLT3, MAP3K1, NOTCH1, TP53, U2AF1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000006,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is PIK-93. The drug SMILES structure is CC1=C(SC(=N1)NC(=O)C)C2=CC(=C(C=C2)Cl)S(=O)(=O)NCCO. Drug target is PK3CG. Drug target pathway is PI3K/MTOR signaling.
+The mutations of the cell line are ASXL1, FLT3, MAP3K1, NOTCH1, TP53, U2AF1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000006,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is TELOMERASE INHIBITOR IX. The drug SMILES structure is C1=CC(=CC(=C1)NC(=O)C2=C(C(=CC=C2)O)O)NC(=O)C3=C(C(=CC=C3)O)O. Drug target is Telomerase. Drug target pathway is Genome integrity.
+The mutations of the cell line are ASXL1, FLT3, MAP3K1, NOTCH1, TP53, U2AF1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000006,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is BRYOSTATIN-1. The drug SMILES structure is CCCC=CC=CC(=O)OC1C(=CC(=O)OC)CC2CC(OC(=O)CC(CC3CC(C(C(O3)(CC4CC(=CC(=O)OC)CC(O4)C=CC(C1(O2)O)(C)C)O)(C)C)OC(=O)C)O)C(C)O. Drug target is Unknown. Drug target pathway is Unknown.
+The mutations of the cell line are ASXL1, FLT3, MAP3K1, NOTCH1, TP53, U2AF1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000006,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is WYE-125132. The drug SMILES structure is CNC(=O)NC1=CC=C(C=C1)C2=NC3=C(C=NN3C4CCC5(CC4)OCCO5)C(=N2)N6CC7CCC(C6)O7. Drug target is mTOR. Drug target pathway is PI3K/MTOR signaling.
+The mutations of the cell line are ASXL1, FLT3, MAP3K1, NOTCH1, TP53, U2AF1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000006,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is CARMUSTINE. The drug SMILES structure is C(CCl)NC(=O)N(CCCl)N=O. Drug target is Unknown. Drug target pathway is Unknown.
+The mutations of the cell line are ASXL1, FLT3, MAP3K1, NOTCH1, TP53, U2AF1.
+Drug Sensitivity: ?",Resistant,
+ACH-000006,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is KIN001-135. The drug SMILES structure is COC1=C(C=C2C(=C1)N=CN2C3=CC(=C(S3)C#N)OCC4=CC=CC=C4S(=O)(=O)C)OC. Drug target is IKK. Drug target pathway is Other, kinases.
+The mutations of the cell line are ASXL1, FLT3, MAP3K1, NOTCH1, TP53, U2AF1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000021,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is SB-505124. The drug SMILES structure is CC1=NC(=CC=C1)C2=C(N=C(N2)C(C)(C)C)C3=CC4=C(C=C3)OCO4. Drug target is Unknown. Drug target pathway is Unknown.
+The mutations of the cell line are ALK, AR, ASXL1, ATR, BRCA2, CSF1R, KDM5C, MLL, MUTYH, SMARCA4, TP53.
+Drug Sensitivity: ?",Resistant,
+ACH-000021,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is ZG-10. The drug SMILES structure is O=C(C1=CC=C(NC(C=CCN(C)C)=O)C=C1)NC2=CC(NC3=NC(C4=CC=CN=C4)=CC=N3)=CC=C2. Drug target is JNK1. Drug target pathway is JNK and p38 signaling.
+The mutations of the cell line are ALK, AR, ASXL1, ATR, BRCA2, CSF1R, KDM5C, MLL, MUTYH, SMARCA4, TP53.
+Drug Sensitivity: ?",Sensitive,
+ACH-000021,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is NVP-TAE684. The drug SMILES structure is CC(C)S(=O)(=O)C1=CC=CC=C1NC2=NC(=NC=C2Cl)NC3=C(C=C(C=C3)N4CCC(CC4)N5CCN(CC5)C)OC. Drug target is ALK. Drug target pathway is RTK signaling.
+The mutations of the cell line are ALK, AR, ASXL1, ATR, BRCA2, CSF1R, KDM5C, MLL, MUTYH, SMARCA4, TP53.
+Drug Sensitivity: ?",Resistant,
+ACH-000021,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is PAZOPANIB. The drug SMILES structure is CC1=C(C=C(C=C1)NC2=NC=CC(=N2)N(C)C3=CC4=NN(C(=C4C=C3)C)C)S(=O)(=O)N. Drug target is CSF1R, KIT,  PDGFRA, PDGFRB. Drug target pathway is RTK signaling.
+The mutations of the cell line are ALK, AR, ASXL1, ATR, BRCA2, CSF1R, KDM5C, MLL, MUTYH, SMARCA4, TP53.
+Drug Sensitivity: ?",Sensitive,
+ACH-000021,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is CAY10566. The drug SMILES structure is CC1=NN=C(O1)C2=NN=C(C=C2)N3CCC(CC3)OC4=C(C=CC(=C4)F)Cl. Drug target is Stearoyl-CoA desaturase. Drug target pathway is Other.
+The mutations of the cell line are ALK, AR, ASXL1, ATR, BRCA2, CSF1R, KDM5C, MLL, MUTYH, SMARCA4, TP53.
+Drug Sensitivity: ?",Sensitive,
+ACH-000021,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is GDC-0941. The drug SMILES structure is CS(=O)(=O)N1CCN(CC1)CC2=CC3=C(S2)C(=NC(=N3)C4=C5C=NNC5=CC=C4)N6CCOCC6. Drug target is PI3K (class 1). Drug target pathway is PI3K/MTOR signaling.
+The mutations of the cell line are ALK, AR, ASXL1, ATR, BRCA2, CSF1R, KDM5C, MLL, MUTYH, SMARCA4, TP53.
+Drug Sensitivity: ?",Sensitive,
+ACH-000021,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is EPZ004777. The drug SMILES structure is CC(C)N(CCCNC(=O)NC1=CC=C(C=C1)C(C)(C)C)C[C@@H]2[C@H]([C@H]([C@@H](O2)N3C=CC4=C(N=CN=C43)N)O)O. Drug target is DOT1L. Drug target pathway is Chromatin histone methylation.
+The mutations of the cell line are ALK, AR, ASXL1, ATR, BRCA2, CSF1R, KDM5C, MLL, MUTYH, SMARCA4, TP53.
+Drug Sensitivity: ?",Sensitive,
+ACH-000021,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is TEMOZOLOMIDE. The drug SMILES structure is CN1C(=O)N2C=NC(=C2N=N1)C(=O)N. Drug target is DNA alkylating agent. Drug target pathway is DNA replication.
+The mutations of the cell line are ALK, AR, ASXL1, ATR, BRCA2, CSF1R, KDM5C, MLL, MUTYH, SMARCA4, TP53.
+Drug Sensitivity: ?",Resistant,
+ACH-000021,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is XMD11-85H. The drug SMILES structure is O=C1CCN(C2CCCC2)C3=NC(NC4=CC=C(C(NC5CCN(C)CC5)=O)C=C4OC)=NC=C3N1C(C)C. Drug target is LRRK2, ERK5. Drug target pathway is Other, kinases.
+The mutations of the cell line are ALK, AR, ASXL1, ATR, BRCA2, CSF1R, KDM5C, MLL, MUTYH, SMARCA4, TP53.
+Drug Sensitivity: ?",Resistant,
+ACH-000021,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is JQ1-(+). The drug SMILES structure is CC1=C(SC2=C1C(=N[C@H](C3=NN=C(N32)C)CC(=O)OC(C)(C)C)C4=CC=C(C=C4)Cl)C. Drug target is Unknown. Drug target pathway is Unknown.
+The mutations of the cell line are ALK, AR, ASXL1, ATR, BRCA2, CSF1R, KDM5C, MLL, MUTYH, SMARCA4, TP53.
+Drug Sensitivity: ?",Sensitive,
+ACH-000021,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is EPZ-5676. The drug SMILES structure is CC(C)N(C[C@@H]1[C@H]([C@H]([C@@H](O1)N2C=NC3=C(N=CN=C32)N)O)O)C4CC(C4)CCC5=NC6=C(N5)C=C(C=C6)C(C)(C)C. Drug target is DOT1L. Drug target pathway is Chromatin histone methylation.
+The mutations of the cell line are ALK, AR, ASXL1, ATR, BRCA2, CSF1R, KDM5C, MLL, MUTYH, SMARCA4, TP53.
+Drug Sensitivity: ?",Resistant,
+ACH-000021,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is AZD5363. The drug SMILES structure is O=C(C1(N)CCN(C2=C3C(NC=C3)=NC=N2)CC1)N[C@H](C4=CC=C(Cl)C=C4)CCO. Drug target is AKT1, AKT2, AKT3, ROCK2. Drug target pathway is Other, kinases.
+The mutations of the cell line are ALK, AR, ASXL1, ATR, BRCA2, CSF1R, KDM5C, MLL, MUTYH, SMARCA4, TP53.
+Drug Sensitivity: ?",Sensitive,
+ACH-000021,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is YK-4-279. The drug SMILES structure is COC1=CC=C(C=C1)C(=O)CC2(C3=C(C=CC(=C3NC2=O)Cl)Cl)O. Drug target is RNA helicase A. Drug target pathway is Other.
+The mutations of the cell line are ALK, AR, ASXL1, ATR, BRCA2, CSF1R, KDM5C, MLL, MUTYH, SMARCA4, TP53.
+Drug Sensitivity: ?",Sensitive,
+ACH-000021,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is LY2109761. The drug SMILES structure is C1CC2=C(C(=NN2C1)C3=CC=CC=N3)C4=C5C=CC(=CC5=NC=C4)OCCN6CCOCC6. Drug target is TGFB1. Drug target pathway is Other.
+The mutations of the cell line are ALK, AR, ASXL1, ATR, BRCA2, CSF1R, KDM5C, MLL, MUTYH, SMARCA4, TP53.
+Drug Sensitivity: ?",Sensitive,
+ACH-000021,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is CAP-232, TT-232, TLN-232. The drug SMILES structure is CC(C(C(=O)N)NC(=O)C1CSSCC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N1)CCCCN)CC2=CNC3=CC=CC=C32)CC4=CC=C(C=C4)O)NC(=O)C(CC5=CC=CC=C5)N)O. Drug target is Glycolysis. Drug target pathway is Metabolism.
+The mutations of the cell line are ALK, AR, ASXL1, ATR, BRCA2, CSF1R, KDM5C, MLL, MUTYH, SMARCA4, TP53.
+Drug Sensitivity: ?",Sensitive,
+ACH-000021,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is CYCLOPHOSPHAMIDE. The drug SMILES structure is C1CNP(=O)(OC1)N(CCCl)CCCl. Drug target is Alkylating agent. Drug target pathway is DNA replication.
+The mutations of the cell line are ALK, AR, ASXL1, ATR, BRCA2, CSF1R, KDM5C, MLL, MUTYH, SMARCA4, TP53.
+Drug Sensitivity: ?",Resistant,
+ACH-000021,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is NVP-BEZ235. The drug SMILES structure is CC(C)(C#N)C1=CC=C(C=C1)N2C3=C4C=C(C=CC4=NC=C3N(C2=O)C)C5=CC6=CC=CC=C6N=C5. Drug target is PI3K (class 1), MTORC1, MTORC2. Drug target pathway is PI3K/MTOR signaling.
+The mutations of the cell line are ALK, AR, ASXL1, ATR, BRCA2, CSF1R, KDM5C, MLL, MUTYH, SMARCA4, TP53.
+Drug Sensitivity: ?",Resistant,
+ACH-000021,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is YM-201636. The drug SMILES structure is C1COCCN1C2=NC(=NC3=C2OC4=C3C=CC=N4)C5=CC(=CC=C5)NC(=O)C6=CN=C(C=C6)N. Drug target is PIKFYVE. Drug target pathway is PI3K/MTOR signaling.
+The mutations of the cell line are ALK, AR, ASXL1, ATR, BRCA2, CSF1R, KDM5C, MLL, MUTYH, SMARCA4, TP53.
+Drug Sensitivity: ?",Sensitive,
+ACH-000021,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is LEFLUNOMIDE. The drug SMILES structure is CC1=C(C=NO1)C(=O)NC2=CC=C(C=C2)C(F)(F)F. Drug target is Pyrimidine synthesis inhibitor. Drug target pathway is DNA replication.
+The mutations of the cell line are ALK, AR, ASXL1, ATR, BRCA2, CSF1R, KDM5C, MLL, MUTYH, SMARCA4, TP53.
+Drug Sensitivity: ?",Resistant,
+ACH-000021,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is SB-216763. The drug SMILES structure is CN1C=C(C2=CC=CC=C21)C3=C(C(=O)NC3=O)C4=C(C=C(C=C4)Cl)Cl. Drug target is GSK3A, GSK3B. Drug target pathway is WNT signaling.
+The mutations of the cell line are ALK, AR, ASXL1, ATR, BRCA2, CSF1R, KDM5C, MLL, MUTYH, SMARCA4, TP53.
+Drug Sensitivity: ?",Resistant,
+ACH-000021,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is SHIKONIN. The drug SMILES structure is CC(=CC[C@H](C1=CC(=O)C2=C(C=CC(=C2C1=O)O)O)O)C. Drug target is not defined. Drug target pathway is Other.
+The mutations of the cell line are ALK, AR, ASXL1, ATR, BRCA2, CSF1R, KDM5C, MLL, MUTYH, SMARCA4, TP53.
+Drug Sensitivity: ?",Resistant,
+ACH-000021,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is QS-11. The drug SMILES structure is C1CC2=C(C1)C=C(C=C2)OC3=NC(=C4C(=N3)N(C=N4)CC5=CC=C(C=C5)C6=CC=CC=C6)NC(CC7=CC=CC=C7)CO. Drug target is Unknown. Drug target pathway is Unknown.
+The mutations of the cell line are ALK, AR, ASXL1, ATR, BRCA2, CSF1R, KDM5C, MLL, MUTYH, SMARCA4, TP53.
+Drug Sensitivity: ?",Sensitive,
+ACH-000021,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is MOTESANIB. The drug SMILES structure is CC1(CNC2=C1C=CC(=C2)NC(=O)C3=C(N=CC=C3)NCC4=CC=NC=C4)C. Drug target is VEGFR, RET, KIT, PDGFR. Drug target pathway is RTK signaling.
+The mutations of the cell line are ALK, AR, ASXL1, ATR, BRCA2, CSF1R, KDM5C, MLL, MUTYH, SMARCA4, TP53.
+Drug Sensitivity: ?",Resistant,
+ACH-000021,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is DACTINOMYCIN. The drug SMILES structure is C[C@@H]1[C@@H](C(=O)N[C@@H](C(=O)N2CCC[C@H]2C(=O)N(CC(=O)N([C@H](C(=O)O1)C(C)C)C)C)C(C)C)NC(=O)C3=C4C(=C(C=C3)C)OC5=C(C(=O)C(=C(C5=N4)C(=O)N[C@H]6[C@H](OC(=O)[C@@H](N(C(=O)CN(C(=O)[C@@H]7CCCN7C(=O)[C@H](NC6=O)C(C)C)C)C)C(C)C)C)N)C. Drug target is RNA polymerase. Drug target pathway is Other.
+The mutations of the cell line are ALK, AR, ASXL1, ATR, BRCA2, CSF1R, KDM5C, MLL, MUTYH, SMARCA4, TP53.
+Drug Sensitivity: ?",Resistant,
+ACH-000021,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is XMD13-2. The drug SMILES structure is O=C(C1CC1)NC2=NNC3=CC(C4=CC(C(NC5CC5)=O)=CC=C4)=CC=C32. Drug target is MRCKB. Drug target pathway is Cytoskeleton.
+The mutations of the cell line are ALK, AR, ASXL1, ATR, BRCA2, CSF1R, KDM5C, MLL, MUTYH, SMARCA4, TP53.
+Drug Sensitivity: ?",Sensitive,
+ACH-000021,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is STF-62247. The drug SMILES structure is CC1=CC(=CC=C1)NC2=NC(=CS2)C3=CC=NC=C3. Drug target is Autophagy inducer. Drug target pathway is Other.
+The mutations of the cell line are ALK, AR, ASXL1, ATR, BRCA2, CSF1R, KDM5C, MLL, MUTYH, SMARCA4, TP53.
+Drug Sensitivity: ?",Sensitive,
+ACH-000021,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is CCT018159. The drug SMILES structure is CCC1=CC(=C(C=C1O)O)C2=NNC(=C2C3=CC4=C(C=C3)OCCO4)C. Drug target is HSP90. Drug target pathway is Protein stability and degradation.
+The mutations of the cell line are ALK, AR, ASXL1, ATR, BRCA2, CSF1R, KDM5C, MLL, MUTYH, SMARCA4, TP53.
+Drug Sensitivity: ?",Resistant,
+ACH-000021,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is VENETOCLAX. The drug SMILES structure is CC1(CCC(=C(C1)C2=CC=C(C=C2)Cl)CN3CCN(CC3)C4=CC(=C(C=C4)C(=O)NS(=O)(=O)C5=CC(=C(C=C5)NCC6CCOCC6)[N+](=O)[O-])OC7=CN=C8C(=C7)C=CN8)C. Drug target is BCL2. Drug target pathway is Apoptosis regulation.
+The mutations of the cell line are ALK, AR, ASXL1, ATR, BRCA2, CSF1R, KDM5C, MLL, MUTYH, SMARCA4, TP53.
+Drug Sensitivity: ?",Sensitive,
+ACH-000021,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is ELESCLOMOL. The drug SMILES structure is CN(C(=S)C1=CC=CC=C1)NC(=O)CC(=O)NN(C)C(=S)C2=CC=CC=C2. Drug target is HSP90. Drug target pathway is Protein stability and degradation.
+The mutations of the cell line are ALK, AR, ASXL1, ATR, BRCA2, CSF1R, KDM5C, MLL, MUTYH, SMARCA4, TP53.
+Drug Sensitivity: ?",Resistant,
+ACH-000021,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is GSK2578215A. The drug SMILES structure is C1=CC=C(C=C1)COC2=C(C=C(C=C2)C3=CC(=NC=C3)F)C(=O)NC4=CN=CC=C4. Drug target is LRRK2. Drug target pathway is Other, kinases.
+The mutations of the cell line are ALK, AR, ASXL1, ATR, BRCA2, CSF1R, KDM5C, MLL, MUTYH, SMARCA4, TP53.
+Drug Sensitivity: ?",Resistant,
+ACH-000021,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is BIX02189. The drug SMILES structure is CN(C)CC1=CC(=CC=C1)N=C(C2=CC=CC=C2)C3=C(NC4=C3C=CC(=C4)C(=O)N(C)C)O. Drug target is MEK5, ERK5. Drug target pathway is ERK MAPK signaling.
+The mutations of the cell line are ALK, AR, ASXL1, ATR, BRCA2, CSF1R, KDM5C, MLL, MUTYH, SMARCA4, TP53.
+Drug Sensitivity: ?",Resistant,
+ACH-000021,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is KIN001-135. The drug SMILES structure is COC1=C(C=C2C(=C1)N=CN2C3=CC(=C(S3)C#N)OCC4=CC=CC=C4S(=O)(=O)C)OC. Drug target is IKK. Drug target pathway is Other, kinases.
+The mutations of the cell line are ALK, AR, ASXL1, ATR, BRCA2, CSF1R, KDM5C, MLL, MUTYH, SMARCA4, TP53.
+Drug Sensitivity: ?",Sensitive,
+ACH-000045,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is JW-7-24-1. The drug SMILES structure is COC1=CC(=CC(=C1)C2=CC3=C4C(=CN=C3C=C2)C=CC(=O)N4C5=CC(=C(C=C5)N6CCNCC6)C(F)(F)F)OC. Drug target is LCK. Drug target pathway is Other, kinases.
+The mutations of the cell line are ARFRP1, IRS2, NBN, WHSC1L1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000045,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is ERK5-IN-1. The drug SMILES structure is CCOC1=C(C=CC(=C1)C(=O)N2CCC(CC2)N3CCN(CC3)C)NC4=NC=C5C(=N4)N(C6=CC=CC=C6C(=O)N5C)C7CCCC7. Drug target is ERK5, BET. Drug target pathway is Other.
+The mutations of the cell line are ARFRP1, IRS2, NBN, WHSC1L1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000045,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is IMATINIB. The drug SMILES structure is CC1=C(C=C(C=C1)NC(=O)C2=CC=C(C=C2)CN3CCN(CC3)C)NC4=NC=CC(=N4)C5=CN=CC=C5. Drug target is ABL, KIT, PDGFR. Drug target pathway is Other, kinases.
+The mutations of the cell line are ARFRP1, IRS2, NBN, WHSC1L1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000045,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is CX-5461. The drug SMILES structure is CC1=CN=C(C=N1)CNC(=O)C2=C3N(C4=CC=CC=C4S3)C5=C(C2=O)C=CC(=N5)N6CCCN(CC6)C. Drug target is RNA Polymerase 1. Drug target pathway is Other.
+The mutations of the cell line are ARFRP1, IRS2, NBN, WHSC1L1.
+Drug Sensitivity: ?",Resistant,
+ACH-000045,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is NVP-TAE684. The drug SMILES structure is CC(C)S(=O)(=O)C1=CC=CC=C1NC2=NC(=NC=C2Cl)NC3=C(C=C(C=C3)N4CCC(CC4)N5CCN(CC5)C)OC. Drug target is ALK. Drug target pathway is RTK signaling.
+The mutations of the cell line are ARFRP1, IRS2, NBN, WHSC1L1.
+Drug Sensitivity: ?",Resistant,
+ACH-000045,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is KIN001-244. The drug SMILES structure is C1=CC=C(C=C1)[C@H](COC2=CC3=C(C=C2)NC(=O)N3)NC(=O)C4=CC=CN(C4=O)CC5=CC(=C(C=C5)F)F. Drug target is PDK1. Drug target pathway is Other, kinases.
+The mutations of the cell line are ARFRP1, IRS2, NBN, WHSC1L1.
+Drug Sensitivity: ?",Resistant,
+ACH-000045,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is LINSITINIB. The drug SMILES structure is CC1(CC(C1)C2=NC(=C3N2C=CN=C3N)C4=CC5=C(C=C4)C=CC(=N5)C6=CC=CC=C6)O. Drug target is IGF1R. Drug target pathway is IGF1R signaling.
+The mutations of the cell line are ARFRP1, IRS2, NBN, WHSC1L1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000045,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is FTY-720. The drug SMILES structure is CCCCCCCCC1=CC=C(C=C1)CCC(CO)(CO)N. Drug target is S1P. Drug target pathway is Other.
+The mutations of the cell line are ARFRP1, IRS2, NBN, WHSC1L1.
+Drug Sensitivity: ?",Resistant,
+ACH-000045,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is UNC0642. The drug SMILES structure is CC(C)N1CCC(CC1)NC2=NC(=NC3=CC(=C(C=C32)OC)OCCCN4CCCC4)N5CCC(CC5)(F)F. Drug target is G9A, GLP. Drug target pathway is Chromatin histone methylation.
+The mutations of the cell line are ARFRP1, IRS2, NBN, WHSC1L1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000045,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is AS601245. The drug SMILES structure is C1=CC=C2C(=C1)N=C(S2)C(C#N)C3=NC(=NC=C3)NCCC4=CN=CC=C4. Drug target is JNK1, JNK2, JNK2. Drug target pathway is JNK and p38 signaling.
+The mutations of the cell line are ARFRP1, IRS2, NBN, WHSC1L1.
+Drug Sensitivity: ?",Resistant,
+ACH-000045,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is DOXORUBICIN. The drug SMILES structure is C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C(C4=C(C(=C23)O)C(=O)C5=C(C4=O)C=CC=C5OC)O)(C(=O)CO)O)N)O. Drug target is Anthracycline. Drug target pathway is DNA replication.
+The mutations of the cell line are ARFRP1, IRS2, NBN, WHSC1L1.
+Drug Sensitivity: ?",Resistant,
+ACH-000045,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is YK-4-279. The drug SMILES structure is COC1=CC=C(C=C1)C(=O)CC2(C3=C(C=CC(=C3NC2=O)Cl)Cl)O. Drug target is RNA helicase A. Drug target pathway is Other.
+The mutations of the cell line are ARFRP1, IRS2, NBN, WHSC1L1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000045,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is NPK76-II-72-1. The drug SMILES structure is CC1CC(=O)N(C2=CN=C(N=C2N1C3CCCC3)NC4=C(C=C(C=C4)C(=O)NC5CCN(CC5)C)OC)C. Drug target is PLK3. Drug target pathway is Cell cycle.
+The mutations of the cell line are ARFRP1, IRS2, NBN, WHSC1L1.
+Drug Sensitivity: ?",Resistant,
+ACH-000045,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is ABT-737. The drug SMILES structure is CN(C)CC[C@H](CSC1=CC=CC=C1)NC2=C(C=C(C=C2)S(=O)(=O)NC(=O)C3=CC=C(C=C3)N4CCN(CC4)CC5=CC=CC=C5C6=CC=C(C=C6)Cl)[N+](=O)[O-]. Drug target is Unknown. Drug target pathway is Unknown.
+The mutations of the cell line are ARFRP1, IRS2, NBN, WHSC1L1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000045,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is MPS-1-IN-1. The drug SMILES structure is CC(C)S(=O)(=O)C1=CC=CC=C1NC2=CC(=NC3=C2C=CN3)NC4=C(C=C(C=C4)N5CCC(CC5)O)OC. Drug target is MPS1. Drug target pathway is Mitosis.
+The mutations of the cell line are ARFRP1, IRS2, NBN, WHSC1L1.
+Drug Sensitivity: ?",Resistant,
+ACH-000045,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is SB-525334. The drug SMILES structure is CC1=NC(=CC=C1)C2=C(N=C(N2)C(C)(C)C)C3=CC4=NC=CN=C4C=C3. Drug target is Unknown. Drug target pathway is Unknown.
+The mutations of the cell line are ARFRP1, IRS2, NBN, WHSC1L1.
+Drug Sensitivity: ?",Resistant,
+ACH-000045,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is ROSCOVITINE. The drug SMILES structure is CCC(CO)NC1=NC(=C2C(=N1)N(C=N2)C(C)C)NCC3=CC=CC=C3. Drug target is CDK2, CDK7, CDK9. Drug target pathway is Cell cycle.
+The mutations of the cell line are ARFRP1, IRS2, NBN, WHSC1L1.
+Drug Sensitivity: ?",Resistant,
+ACH-000045,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is FH-535. The drug SMILES structure is CC1=C(C=CC(=C1)[N+](=O)[O-])NS(=O)(=O)C2=C(C=CC(=C2)Cl)Cl. Drug target is Unknown. Drug target pathway is Unknown.
+The mutations of the cell line are ARFRP1, IRS2, NBN, WHSC1L1.
+Drug Sensitivity: ?",Resistant,
+ACH-000045,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is TASELISIB. The drug SMILES structure is CC1=NN(C(=N1)C2=CN3CCOC4=C(C3=N2)C=CC(=C4)C5=CN(N=C5)C(C)(C)C(=O)N)C(C)C. Drug target is PI3K (beta sparing). Drug target pathway is PI3K/MTOR signaling.
+The mutations of the cell line are ARFRP1, IRS2, NBN, WHSC1L1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000045,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is BLEOMYCIN. The drug SMILES structure is CC1=C(N=C(N=C1N)[C@H](CC(=O)N)NC[C@@H](C(=O)N)N)C(=O)N[C@@H](C(C2=CN=CN2)O[C@H]3[C@H]([C@H]([C@@H]([C@@H](O3)CO)O)O)O[C@@H]4[C@H]([C@H]([C@@H]([C@H](O4)CO)O)OC(=O)N)O)C(=O)N[C@H](C)[C@H]([C@H](C)C(=O)N[C@@H]([C@@H](C)O)C(=O)NCCC5=NC(=CS5)C6=NC(=CS6)C(=O)NCCC[S+](C)C)O. Drug target is dsDNA break induction. Drug target pathway is DNA replication.
+The mutations of the cell line are ARFRP1, IRS2, NBN, WHSC1L1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000045,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is YM-201636. The drug SMILES structure is C1COCCN1C2=NC(=NC3=C2OC4=C3C=CC=N4)C5=CC(=CC=C5)NC(=O)C6=CN=C(C=C6)N. Drug target is PIKFYVE. Drug target pathway is PI3K/MTOR signaling.
+The mutations of the cell line are ARFRP1, IRS2, NBN, WHSC1L1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000045,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is LEFLUNOMIDE. The drug SMILES structure is CC1=C(C=NO1)C(=O)NC2=CC=C(C=C2)C(F)(F)F. Drug target is Pyrimidine synthesis inhibitor. Drug target pathway is DNA replication.
+The mutations of the cell line are ARFRP1, IRS2, NBN, WHSC1L1.
+Drug Sensitivity: ?",Resistant,
+ACH-000045,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is VOXTALISIB. The drug SMILES structure is CCN1C2=NC(=NC(=C2C=C(C1=O)C3=CC=NN3)C)N. Drug target is PI3K (class 1), DNAPK, MTOR. Drug target pathway is PI3K/MTOR signaling.
+The mutations of the cell line are ARFRP1, IRS2, NBN, WHSC1L1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000045,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is FORETINIB. The drug SMILES structure is COC1=CC2=C(C=CN=C2C=C1OCCCN3CCOCC3)OC4=C(C=C(C=C4)NC(=O)C5(CC5)C(=O)NC6=CC=C(C=C6)F)F. Drug target is MET, KDR, TIE2, VEGFR3/FLT4, RON, PDGFR, FGFR1, EGFR. Drug target pathway is RTK signaling.
+The mutations of the cell line are ARFRP1, IRS2, NBN, WHSC1L1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000045,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is QS-11. The drug SMILES structure is C1CC2=C(C1)C=C(C=C2)OC3=NC(=C4C(=N3)N(C=N4)CC5=CC=C(C=C5)C6=CC=CC=C6)NC(CC7=CC=CC=C7)CO. Drug target is Unknown. Drug target pathway is Unknown.
+The mutations of the cell line are ARFRP1, IRS2, NBN, WHSC1L1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000045,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is GW-843682X. The drug SMILES structure is COC1=C(C=C2C(=C1)N=CN2C3=CC(=C(S3)C(=O)N)OCC4=CC=CC=C4C(F)(F)F)OC. Drug target is Unknown. Drug target pathway is Unknown.
+The mutations of the cell line are ARFRP1, IRS2, NBN, WHSC1L1.
+Drug Sensitivity: ?",Resistant,
+ACH-000045,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is KIN001-042. The drug SMILES structure is C1=CC(=CC(=C1)I)CSC2=NN=C(O2)C3=CC=NC=C3. Drug target is GSK3B. Drug target pathway is WNT signaling.
+The mutations of the cell line are ARFRP1, IRS2, NBN, WHSC1L1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000045,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is QUIZARTINIB. The drug SMILES structure is CC(C)(C)C1=CC(=NO1)NC(=O)NC2=CC=C(C=C2)C3=CN4C5=C(C=C(C=C5)OCCN6CCOCC6)SC4=N3. Drug target is FLT3. Drug target pathway is RTK signaling.
+The mutations of the cell line are ARFRP1, IRS2, NBN, WHSC1L1.
+Drug Sensitivity: ?",Resistant,
+ACH-000045,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is PIK-93. The drug SMILES structure is CC1=C(SC(=N1)NC(=O)C)C2=CC(=C(C=C2)Cl)S(=O)(=O)NCCO. Drug target is PK3CG. Drug target pathway is PI3K/MTOR signaling.
+The mutations of the cell line are ARFRP1, IRS2, NBN, WHSC1L1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000045,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is TELOMERASE INHIBITOR IX. The drug SMILES structure is C1=CC(=CC(=C1)NC(=O)C2=C(C(=CC=C2)O)O)NC(=O)C3=C(C(=CC=C3)O)O. Drug target is Telomerase. Drug target pathway is Genome integrity.
+The mutations of the cell line are ARFRP1, IRS2, NBN, WHSC1L1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000045,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is VELIPARIB. The drug SMILES structure is C[C@@]1(CCCN1)C2=NC3=C(C=CC=C3N2)C(=O)N. Drug target is PARP1, PARP2. Drug target pathway is Genome integrity.
+The mutations of the cell line are ARFRP1, IRS2, NBN, WHSC1L1.
+Drug Sensitivity: ?",Resistant,
+ACH-000045,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is WYE-125132. The drug SMILES structure is CNC(=O)NC1=CC=C(C=C1)C2=NC3=C(C=NN3C4CCC5(CC4)OCCO5)C(=N2)N6CC7CCC(C6)O7. Drug target is mTOR. Drug target pathway is PI3K/MTOR signaling.
+The mutations of the cell line are ARFRP1, IRS2, NBN, WHSC1L1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000045,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is VX-702. The drug SMILES structure is C1=CC(=C(C(=C1)F)N(C2=NC(=C(C=C2)C(=O)N)C3=C(C=C(C=C3)F)F)C(=O)N)F. Drug target is p38. Drug target pathway is JNK and p38 signaling.
+The mutations of the cell line are ARFRP1, IRS2, NBN, WHSC1L1.
+Drug Sensitivity: ?",Resistant,
+ACH-000045,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is LUMINESPIB. The drug SMILES structure is CCNC(=O)C1=NOC(=C1C2=CC=C(C=C2)CN3CCOCC3)C4=CC(=C(C=C4O)O)C(C)C. Drug target is HSP90. Drug target pathway is Protein stability and degradation.
+The mutations of the cell line are ARFRP1, IRS2, NBN, WHSC1L1.
+Drug Sensitivity: ?",Resistant,
+ACH-000067,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is CGP-082996. The drug SMILES structure is CCNC1=CC(=NC(=N1)NC2=CC3=C(C=C2)N(C=C3)CC4=CC=CC=C4)NC5CCC(CC5)O. Drug target is CDK4. Drug target pathway is Cell cycle.
+The mutations of the cell line are ARAF, BTK, DOT1L, EGFR, ETV5, FLT1, MTOR, NPM1, SMARCA4, TP53.
+Drug Sensitivity: ?",Resistant,
+ACH-000067,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is AST-1306. The drug SMILES structure is C=CC(=O)NC1=CC2=C(C=C1)N=CN=C2NC3=CC(=C(C=C3)OCC4=CC(=CC=C4)F)Cl. Drug target is EGFR, ERBB4. Drug target pathway is RTK signaling.
+The mutations of the cell line are ARAF, BTK, DOT1L, EGFR, ETV5, FLT1, MTOR, NPM1, SMARCA4, TP53.
+Drug Sensitivity: ?",Resistant,
+ACH-000067,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is CX-5461. The drug SMILES structure is CC1=CN=C(C=N1)CNC(=O)C2=C3N(C4=CC=CC=C4S3)C5=C(C2=O)C=CC(=N5)N6CCCN(CC6)C. Drug target is RNA Polymerase 1. Drug target pathway is Other.
+The mutations of the cell line are ARAF, BTK, DOT1L, EGFR, ETV5, FLT1, MTOR, NPM1, SMARCA4, TP53.
+Drug Sensitivity: ?",Resistant,
+ACH-000067,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is CAY10566. The drug SMILES structure is CC1=NN=C(O1)C2=NN=C(C=C2)N3CCC(CC3)OC4=C(C=CC(=C4)F)Cl. Drug target is Stearoyl-CoA desaturase. Drug target pathway is Other.
+The mutations of the cell line are ARAF, BTK, DOT1L, EGFR, ETV5, FLT1, MTOR, NPM1, SMARCA4, TP53.
+Drug Sensitivity: ?",Sensitive,
+ACH-000067,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is NPK76-II-72-1. The drug SMILES structure is CC1CC(=O)N(C2=CN=C(N=C2N1C3CCCC3)NC4=C(C=C(C=C4)C(=O)NC5CCN(CC5)C)OC)C. Drug target is PLK3. Drug target pathway is Cell cycle.
+The mutations of the cell line are ARAF, BTK, DOT1L, EGFR, ETV5, FLT1, MTOR, NPM1, SMARCA4, TP53.
+Drug Sensitivity: ?",Resistant,
+ACH-000067,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is PYRIDOSTATIN. The drug SMILES structure is C1=CC=C2C(=C1)C(=CC(=N2)NC(=O)C3=CC(=CC(=N3)C(=O)NC4=NC5=CC=CC=C5C(=C4)OCCN)OCCN)OCCN. Drug target is G-quadruplex stabiliser. Drug target pathway is DNA replication.
+The mutations of the cell line are ARAF, BTK, DOT1L, EGFR, ETV5, FLT1, MTOR, NPM1, SMARCA4, TP53.
+Drug Sensitivity: ?",Sensitive,
+ACH-000067,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is FR-180204. The drug SMILES structure is C1=CC=C(C=C1)C2=NN3C=CC=CC3=C2C4=CC5=C(NN=C5N=N4)N. Drug target is ERK1, ERK2. Drug target pathway is ERK MAPK signaling.
+The mutations of the cell line are ARAF, BTK, DOT1L, EGFR, ETV5, FLT1, MTOR, NPM1, SMARCA4, TP53.
+Drug Sensitivity: ?",Sensitive,
+ACH-000067,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is BVD-523. The drug SMILES structure is CC(C)NC1=NC=C(C(=C1)C2=CNC(=C2)C(=O)N[C@H](CO)C3=CC(=CC=C3)Cl)Cl. Drug target is ERK1, ERK2. Drug target pathway is ERK MAPK signaling.
+The mutations of the cell line are ARAF, BTK, DOT1L, EGFR, ETV5, FLT1, MTOR, NPM1, SMARCA4, TP53.
+Drug Sensitivity: ?",Resistant,
+ACH-000067,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is CETUXIMAB. The drug SMILES structure is CC1(C(=C)N(C2=CC=CC=C21)CCCCCC(=O)O)C. Drug target is EGFR. Drug target pathway is EGFR signaling.
+The mutations of the cell line are ARAF, BTK, DOT1L, EGFR, ETV5, FLT1, MTOR, NPM1, SMARCA4, TP53.
+Drug Sensitivity: ?",Sensitive,
+ACH-000067,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is KOBE2602. The drug SMILES structure is C1=CC(=CC=C1NC(=S)NNC2=C(C=C(C=C2[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-])F. Drug target is RAS effector. Drug target pathway is RTK signaling.
+The mutations of the cell line are ARAF, BTK, DOT1L, EGFR, ETV5, FLT1, MTOR, NPM1, SMARCA4, TP53.
+Drug Sensitivity: ?",Sensitive,
+ACH-000067,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is JNJ-38877605. The drug SMILES structure is CN1C=C(C=N1)C2=NN3C(=NN=C3C(C4=CC5=C(C=C4)N=CC=C5)(F)F)C=C2. Drug target is Unknown. Drug target pathway is Unknown.
+The mutations of the cell line are ARAF, BTK, DOT1L, EGFR, ETV5, FLT1, MTOR, NPM1, SMARCA4, TP53.
+Drug Sensitivity: ?",Sensitive,
+ACH-000067,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is PFI-3. The drug SMILES structure is C1C2CN(C1CN2C3=CC=CC=N3)C=CC(=O)C4=CC=CC=C4O. Drug target is PB1, SMARCA4, SMARCA2. Drug target pathway is Chromatin other.
+The mutations of the cell line are ARAF, BTK, DOT1L, EGFR, ETV5, FLT1, MTOR, NPM1, SMARCA4, TP53.
+Drug Sensitivity: ?",Resistant,
+ACH-000067,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is AZD3759. The drug SMILES structure is C[C@@H]1CN(CCN1C(=O)OC2=C(C=C3C(=C2)C(=NC=N3)NC4=C(C(=CC=C4)Cl)F)OC)C. Drug target is EGFR. Drug target pathway is EGFR signaling.
+The mutations of the cell line are ARAF, BTK, DOT1L, EGFR, ETV5, FLT1, MTOR, NPM1, SMARCA4, TP53.
+Drug Sensitivity: ?",Resistant,
+ACH-000067,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is BAY-61-3606. The drug SMILES structure is COC1=C(C=C(C=C1)C2=CC3=NC=CN3C(=N2)NC4=C(C=CC=N4)C(=O)N)OC. Drug target is SYK. Drug target pathway is Other, kinases.
+The mutations of the cell line are ARAF, BTK, DOT1L, EGFR, ETV5, FLT1, MTOR, NPM1, SMARCA4, TP53.
+Drug Sensitivity: ?",Resistant,
+ACH-000067,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is C-75. The drug SMILES structure is CCCCCCCCC1C(C(=C)C(=O)O1)C(=O)O. Drug target is FAS. Drug target pathway is Apoptosis regulation.
+The mutations of the cell line are ARAF, BTK, DOT1L, EGFR, ETV5, FLT1, MTOR, NPM1, SMARCA4, TP53.
+Drug Sensitivity: ?",Resistant,
+ACH-000067,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is YM-201636. The drug SMILES structure is C1COCCN1C2=NC(=NC3=C2OC4=C3C=CC=N4)C5=CC(=CC=C5)NC(=O)C6=CN=C(C=C6)N. Drug target is PIKFYVE. Drug target pathway is PI3K/MTOR signaling.
+The mutations of the cell line are ARAF, BTK, DOT1L, EGFR, ETV5, FLT1, MTOR, NPM1, SMARCA4, TP53.
+Drug Sensitivity: ?",Sensitive,
+ACH-000067,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is ALVOCIDIB. The drug SMILES structure is CN1CC[C@@H]([C@@H](C1)O)C2=C(C=C(C3=C2OC(=CC3=O)C4=CC=CC=C4Cl)O)O. Drug target is Unknown. Drug target pathway is Unknown.
+The mutations of the cell line are ARAF, BTK, DOT1L, EGFR, ETV5, FLT1, MTOR, NPM1, SMARCA4, TP53.
+Drug Sensitivity: ?",Resistant,
+ACH-000067,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is PANOBINOSTAT. The drug SMILES structure is CC1=C(C2=CC=CC=C2N1)CCNCC3=CC=C(C=C3)C=CC(=O)NO. Drug target is HDAC. Drug target pathway is Chromatin histone acetylation.
+The mutations of the cell line are ARAF, BTK, DOT1L, EGFR, ETV5, FLT1, MTOR, NPM1, SMARCA4, TP53.
+Drug Sensitivity: ?",Sensitive,
+ACH-000067,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is VNLG/124. The drug SMILES structure is CCCC(=O)OCC1=CC=C(C=C1)OC(=O)C=C(C)C=CC=C(C)C=CC2=C(CCCC2(C)C)C. Drug target is HDAC,RAR. Drug target pathway is Chromatin histone acetylation.
+The mutations of the cell line are ARAF, BTK, DOT1L, EGFR, ETV5, FLT1, MTOR, NPM1, SMARCA4, TP53.
+Drug Sensitivity: ?",Resistant,
+ACH-000067,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is GSK2606414. The drug SMILES structure is CN1C=C(C2=C(N=CN=C21)N)C3=CC4=C(C=C3)N(CC4)C(=O)CC5=CC(=CC=C5)C(F)(F)F. Drug target is PERK. Drug target pathway is Metabolism.
+The mutations of the cell line are ARAF, BTK, DOT1L, EGFR, ETV5, FLT1, MTOR, NPM1, SMARCA4, TP53.
+Drug Sensitivity: ?",Sensitive,
+ACH-000067,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is PALBOCICLIB. The drug SMILES structure is CC1=C(C(=O)N(C2=NC(=NC=C12)NC3=NC=C(C=C3)N4CCNCC4)C5CCCC5)C(=O)C. Drug target is CDK4, CDK6. Drug target pathway is Cell cycle.
+The mutations of the cell line are ARAF, BTK, DOT1L, EGFR, ETV5, FLT1, MTOR, NPM1, SMARCA4, TP53.
+Drug Sensitivity: ?",Resistant,
+ACH-000067,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is AGI-5198. The drug SMILES structure is CC1=CC=CC=C1C(C(=O)NC2CCCCC2)N(C3=CC(=CC=C3)F)C(=O)CN4C=CN=C4C. Drug target is IDH1 (R132H). Drug target pathway is Metabolism.
+The mutations of the cell line are ARAF, BTK, DOT1L, EGFR, ETV5, FLT1, MTOR, NPM1, SMARCA4, TP53.
+Drug Sensitivity: ?",Sensitive,
+ACH-000067,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is T-0901317. The drug SMILES structure is C1=CC=C(C=C1)S(=O)(=O)N(CC(F)(F)F)C2=CC=C(C=C2)C(C(F)(F)F)(C(F)(F)F)O. Drug target is Unknown. Drug target pathway is Unknown.
+The mutations of the cell line are ARAF, BTK, DOT1L, EGFR, ETV5, FLT1, MTOR, NPM1, SMARCA4, TP53.
+Drug Sensitivity: ?",Sensitive,
+ACH-000067,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is BRYOSTATIN-1. The drug SMILES structure is CCCC=CC=CC(=O)OC1C(=CC(=O)OC)CC2CC(OC(=O)CC(CC3CC(C(C(O3)(CC4CC(=CC(=O)OC)CC(O4)C=CC(C1(O2)O)(C)C)O)(C)C)OC(=O)C)O)C(C)O. Drug target is Unknown. Drug target pathway is Unknown.
+The mutations of the cell line are ARAF, BTK, DOT1L, EGFR, ETV5, FLT1, MTOR, NPM1, SMARCA4, TP53.
+Drug Sensitivity: ?",Sensitive,
+ACH-000067,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is WYE-125132. The drug SMILES structure is CNC(=O)NC1=CC=C(C=C1)C2=NC3=C(C=NN3C4CCC5(CC4)OCCO5)C(=N2)N6CC7CCC(C6)O7. Drug target is mTOR. Drug target pathway is PI3K/MTOR signaling.
+The mutations of the cell line are ARAF, BTK, DOT1L, EGFR, ETV5, FLT1, MTOR, NPM1, SMARCA4, TP53.
+Drug Sensitivity: ?",Sensitive,
+ACH-000067,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is BIX02189. The drug SMILES structure is CN(C)CC1=CC(=CC=C1)N=C(C2=CC=CC=C2)C3=C(NC4=C3C=CC(=C4)C(=O)N(C)C)O. Drug target is MEK5, ERK5. Drug target pathway is ERK MAPK signaling.
+The mutations of the cell line are ARAF, BTK, DOT1L, EGFR, ETV5, FLT1, MTOR, NPM1, SMARCA4, TP53.
+Drug Sensitivity: ?",Resistant,
+ACH-000078,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is WIKI4. The drug SMILES structure is COC1=CC=C(C=C1)N2C(=NN=C2SCCCN3C(=O)C4=CC=CC5=C4C(=CC=C5)C3=O)C6=CC=NC=C6. Drug target is TNKS1, TNKS2. Drug target pathway is WNT signaling.
+The mutations of the cell line are ARID1A, CARD11, CDKN2C, JAK1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000078,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is ZG-10. The drug SMILES structure is O=C(C1=CC=C(NC(C=CCN(C)C)=O)C=C1)NC2=CC(NC3=NC(C4=CC=CN=C4)=CC=N3)=CC=C2. Drug target is JNK1. Drug target pathway is JNK and p38 signaling.
+The mutations of the cell line are ARID1A, CARD11, CDKN2C, JAK1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000078,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is PAZOPANIB. The drug SMILES structure is CC1=C(C=C(C=C1)NC2=NC=CC(=N2)N(C)C3=CC4=NN(C(=C4C=C3)C)C)S(=O)(=O)N. Drug target is CSF1R, KIT,  PDGFRA, PDGFRB. Drug target pathway is RTK signaling.
+The mutations of the cell line are ARID1A, CARD11, CDKN2C, JAK1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000078,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is BUPARLISIB. The drug SMILES structure is C1COCCN1C2=NC(=NC(=C2)C3=CN=C(C=C3C(F)(F)F)N)N4CCOCC4. Drug target is PI3Kalpha, PI3Kdelta, PI3Kbeta, PI3Kgamma. Drug target pathway is PI3K/MTOR signaling.
+The mutations of the cell line are ARID1A, CARD11, CDKN2C, JAK1.
+Drug Sensitivity: ?",Resistant,
+ACH-000078,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is ALPELISIB. The drug SMILES structure is CC1=C(SC(=N1)NC(=O)N2CCC[C@H]2C(=O)N)C3=CC(=NC=C3)C(C)(C)C(F)(F)F. Drug target is PI3Kalpha. Drug target pathway is PI3K/MTOR signaling.
+The mutations of the cell line are ARID1A, CARD11, CDKN2C, JAK1.
+Drug Sensitivity: ?",Resistant,
+ACH-000078,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is CAY10566. The drug SMILES structure is CC1=NN=C(O1)C2=NN=C(C=C2)N3CCC(CC3)OC4=C(C=CC(=C4)F)Cl. Drug target is Stearoyl-CoA desaturase. Drug target pathway is Other.
+The mutations of the cell line are ARID1A, CARD11, CDKN2C, JAK1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000078,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is LDN-193189. The drug SMILES structure is C1CN(CCN1)C2=CC=C(C=C2)C3=CN4C(=C(C=N4)C5=CC=NC6=CC=CC=C56)N=C3. Drug target is BMP. Drug target pathway is Other.
+The mutations of the cell line are ARID1A, CARD11, CDKN2C, JAK1.
+Drug Sensitivity: ?",Resistant,
+ACH-000078,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is JQ1-(+). The drug SMILES structure is CC1=C(SC2=C1C(=N[C@H](C3=NN=C(N32)C)CC(=O)OC(C)(C)C)C4=CC=C(C=C4)Cl)C. Drug target is Unknown. Drug target pathway is Unknown.
+The mutations of the cell line are ARID1A, CARD11, CDKN2C, JAK1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000078,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is EPZ-5676. The drug SMILES structure is CC(C)N(C[C@@H]1[C@H]([C@H]([C@@H](O1)N2C=NC3=C(N=CN=C32)N)O)O)C4CC(C4)CCC5=NC6=C(N5)C=C(C=C6)C(C)(C)C. Drug target is DOT1L. Drug target pathway is Chromatin histone methylation.
+The mutations of the cell line are ARID1A, CARD11, CDKN2C, JAK1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000078,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is VINCRISTINE. The drug SMILES structure is CC[C@@]1(C[C@@H]2C[C@@](C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)[C@]78CCN9[C@H]7[C@@](C=CC9)([C@H]([C@@]([C@@H]8N6C=O)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O. Drug target is Unknown. Drug target pathway is Unknown.
+The mutations of the cell line are ARID1A, CARD11, CDKN2C, JAK1.
+Drug Sensitivity: ?",Resistant,
+ACH-000078,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is CETUXIMAB. The drug SMILES structure is CC1(C(=C)N(C2=CC=CC=C21)CCCCCC(=O)O)C. Drug target is EGFR. Drug target pathway is EGFR signaling.
+The mutations of the cell line are ARID1A, CARD11, CDKN2C, JAK1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000078,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is EHT-1864. The drug SMILES structure is C1COCCN1CC2=CC(=O)C(=CO2)OCCCCCSC3=C4C=CC(=CC4=NC=C3)C(F)(F)F.Cl.Cl. Drug target is RAC1, RAC2, RAC3. Drug target pathway is Cytoskeleton.
+The mutations of the cell line are ARID1A, CARD11, CDKN2C, JAK1.
+Drug Sensitivity: ?",Resistant,
+ACH-000078,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is JNJ-38877605. The drug SMILES structure is CN1C=C(C=N1)C2=NN3C(=NN=C3C(C4=CC5=C(C=C4)N=CC=C5)(F)F)C=C2. Drug target is Unknown. Drug target pathway is Unknown.
+The mutations of the cell line are ARID1A, CARD11, CDKN2C, JAK1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000078,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is QL-XII-47. The drug SMILES structure is CN1C=C(C=N1)C2=CC3=C4C(=CN=C3C=C2)C=CC(=O)N4C5=CC6=C(CCN6C(=O)C=C)C=C5. Drug target is BTK, BMX. Drug target pathway is Other, kinases.
+The mutations of the cell line are ARID1A, CARD11, CDKN2C, JAK1.
+Drug Sensitivity: ?",Resistant,
+ACH-000078,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is AZ960. The drug SMILES structure is CC1=CC(=NN1)NC2=C(C=C(C(=N2)N[C@@H](C)C3=CC=C(C=C3)F)C#N)F. Drug target is JAK2, JAK3. Drug target pathway is Other, kinases.
+The mutations of the cell line are ARID1A, CARD11, CDKN2C, JAK1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000078,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is FH-535. The drug SMILES structure is CC1=C(C=CC(=C1)[N+](=O)[O-])NS(=O)(=O)C2=C(C=CC(=C2)Cl)Cl. Drug target is Unknown. Drug target pathway is Unknown.
+The mutations of the cell line are ARID1A, CARD11, CDKN2C, JAK1.
+Drug Sensitivity: ?",Resistant,
+ACH-000078,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is WEHI-539. The drug SMILES structure is C1CC2=C(C=C(C=C2)C3=NC(=C(S3)CCCOC4=CC=C(C=C4)CN)C(=O)O)C(=NNC5=NC6=CC=CC=C6S5)C1.Cl. Drug target is BCL-XL. Drug target pathway is Apoptosis regulation.
+The mutations of the cell line are ARID1A, CARD11, CDKN2C, JAK1.
+Drug Sensitivity: ?",Resistant,
+ACH-000078,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is YM-201636. The drug SMILES structure is C1COCCN1C2=NC(=NC3=C2OC4=C3C=CC=N4)C5=CC(=CC=C5)NC(=O)C6=CN=C(C=C6)N. Drug target is PIKFYVE. Drug target pathway is PI3K/MTOR signaling.
+The mutations of the cell line are ARID1A, CARD11, CDKN2C, JAK1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000078,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is SHIKONIN. The drug SMILES structure is CC(=CC[C@H](C1=CC(=O)C2=C(C=CC(=C2C1=O)O)O)O)C. Drug target is not defined. Drug target pathway is Other.
+The mutations of the cell line are ARID1A, CARD11, CDKN2C, JAK1.
+Drug Sensitivity: ?",Resistant,
+ACH-000078,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is ARA-G. The drug SMILES structure is C1=NC2=C(N1[C@H]3[C@H]([C@@H]([C@H](O3)CO)O)O)N=C(NC2=O)N. Drug target is Anti-metabolite. Drug target pathway is Other.
+The mutations of the cell line are ARID1A, CARD11, CDKN2C, JAK1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000078,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is CZC24832. The drug SMILES structure is CC(C)(C)NS(=O)(=O)C1=CN=CC(=C1)C2=CN3C(=NC(=N3)N)C(=C2)F. Drug target is PI3Kgamma. Drug target pathway is PI3K/MTOR signaling.
+The mutations of the cell line are ARID1A, CARD11, CDKN2C, JAK1.
+Drug Sensitivity: ?",Resistant,
+ACH-000078,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is VENETOCLAX. The drug SMILES structure is CC1(CCC(=C(C1)C2=CC=C(C=C2)Cl)CN3CCN(CC3)C4=CC(=C(C=C4)C(=O)NS(=O)(=O)C5=CC(=C(C=C5)NCC6CCOCC6)[N+](=O)[O-])OC7=CN=C8C(=C7)C=CN8)C. Drug target is BCL2. Drug target pathway is Apoptosis regulation.
+The mutations of the cell line are ARID1A, CARD11, CDKN2C, JAK1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000078,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is ALISERTIB. The drug SMILES structure is COC1=C(C(=CC=C1)F)C2=NCC3=CN=C(N=C3C4=C2C=C(C=C4)Cl)NC5=CC(=C(C=C5)C(=O)O)OC. Drug target is AURKA. Drug target pathway is Mitosis.
+The mutations of the cell line are ARID1A, CARD11, CDKN2C, JAK1.
+Drug Sensitivity: ?",Resistant,
+ACH-000078,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is WYE-125132. The drug SMILES structure is CNC(=O)NC1=CC=C(C=C1)C2=NC3=C(C=NN3C4CCC5(CC4)OCCO5)C(=N2)N6CC7CCC(C6)O7. Drug target is mTOR. Drug target pathway is PI3K/MTOR signaling.
+The mutations of the cell line are ARID1A, CARD11, CDKN2C, JAK1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000105,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is CUDC-101. The drug SMILES structure is COC1=C(C=C2C(=C1)N=CN=C2NC3=CC=CC(=C3)C#C)OCCCCCCC(=O)NO. Drug target is HDAC1-10, EGFR, ERBB2. Drug target pathway is Other.
+The mutations of the cell line are ERBB4, GNAS, NOTCH1, SDHA, SPEN, WT1.
+Drug Sensitivity: ?",Resistant,
+ACH-000105,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is IMATINIB. The drug SMILES structure is CC1=C(C=C(C=C1)NC(=O)C2=CC=C(C=C2)CN3CCN(CC3)C)NC4=NC=CC(=N4)C5=CN=CC=C5. Drug target is ABL, KIT, PDGFR. Drug target pathway is Other, kinases.
+The mutations of the cell line are ERBB4, GNAS, NOTCH1, SDHA, SPEN, WT1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000105,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is FTI-277. The drug SMILES structure is COC(=O)[C@H](CCSC)NC(=O)C1=C(C=C(C=C1)NC[C@H](CS)N)C2=CC=CC=C2. Drug target is Farnesyl-transferase (FNTA). Drug target pathway is Other.
+The mutations of the cell line are ERBB4, GNAS, NOTCH1, SDHA, SPEN, WT1.
+Drug Sensitivity: ?",Resistant,
+ACH-000105,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is KIN001-244. The drug SMILES structure is C1=CC=C(C=C1)[C@H](COC2=CC3=C(C=C2)NC(=O)N3)NC(=O)C4=CC=CN(C4=O)CC5=CC(=C(C=C5)F)F. Drug target is PDK1. Drug target pathway is Other, kinases.
+The mutations of the cell line are ERBB4, GNAS, NOTCH1, SDHA, SPEN, WT1.
+Drug Sensitivity: ?",Resistant,
+ACH-000105,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is PAZOPANIB. The drug SMILES structure is CC1=C(C=C(C=C1)NC2=NC=CC(=N2)N(C)C3=CC4=NN(C(=C4C=C3)C)C)S(=O)(=O)N. Drug target is CSF1R, KIT,  PDGFRA, PDGFRB. Drug target pathway is RTK signaling.
+The mutations of the cell line are ERBB4, GNAS, NOTCH1, SDHA, SPEN, WT1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000105,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is OXALIPLATIN. The drug SMILES structure is C1CC[C@H]([C@@H](C1)N)N.C(=O)(C(=O)O)O.[Pt]. Drug target is DNA alkylating agent. Drug target pathway is DNA replication.
+The mutations of the cell line are ERBB4, GNAS, NOTCH1, SDHA, SPEN, WT1.
+Drug Sensitivity: ?",Resistant,
+ACH-000105,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is CAY10566. The drug SMILES structure is CC1=NN=C(O1)C2=NN=C(C=C2)N3CCC(CC3)OC4=C(C=CC(=C4)F)Cl. Drug target is Stearoyl-CoA desaturase. Drug target pathway is Other.
+The mutations of the cell line are ERBB4, GNAS, NOTCH1, SDHA, SPEN, WT1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000105,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is UNC0642. The drug SMILES structure is CC(C)N1CCC(CC1)NC2=NC(=NC3=CC(=C(C=C32)OC)OCCCN4CCCC4)N5CCC(CC5)(F)F. Drug target is G9A, GLP. Drug target pathway is Chromatin histone methylation.
+The mutations of the cell line are ERBB4, GNAS, NOTCH1, SDHA, SPEN, WT1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000105,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is DOXORUBICIN. The drug SMILES structure is C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C(C4=C(C(=C23)O)C(=O)C5=C(C4=O)C=CC=C5OC)O)(C(=O)CO)O)N)O. Drug target is Anthracycline. Drug target pathway is DNA replication.
+The mutations of the cell line are ERBB4, GNAS, NOTCH1, SDHA, SPEN, WT1.
+Drug Sensitivity: ?",Resistant,
+ACH-000105,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is WHI-P97. The drug SMILES structure is COC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC(=C(C(=C3)Br)O)Br)OC. Drug target is JAK3. Drug target pathway is Other, kinases.
+The mutations of the cell line are ERBB4, GNAS, NOTCH1, SDHA, SPEN, WT1.
+Drug Sensitivity: ?",Resistant,
+ACH-000105,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is AZD5363. The drug SMILES structure is O=C(C1(N)CCN(C2=C3C(NC=C3)=NC=N2)CC1)N[C@H](C4=CC=C(Cl)C=C4)CCO. Drug target is AKT1, AKT2, AKT3, ROCK2. Drug target pathway is Other, kinases.
+The mutations of the cell line are ERBB4, GNAS, NOTCH1, SDHA, SPEN, WT1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000105,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is REFAMETINIB. The drug SMILES structure is COC1=CC(=C(C(=C1NS(=O)(=O)C2(CC2)C[C@@H](CO)O)NC3=C(C=C(C=C3)I)F)F)F. Drug target is MEK1, MEK2. Drug target pathway is ERK MAPK signaling.
+The mutations of the cell line are ERBB4, GNAS, NOTCH1, SDHA, SPEN, WT1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000105,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is XMD14-99. The drug SMILES structure is CN1CCN(CC1)C2=CC(=C(C=C2)NC3=NC(=C(S3)C(=O)C4=C(C=CC=C4Cl)Cl)N)OC. Drug target is ALK, CDK7, LTK, others. Drug target pathway is Other, kinases.
+The mutations of the cell line are ERBB4, GNAS, NOTCH1, SDHA, SPEN, WT1.
+Drug Sensitivity: ?",Resistant,
+ACH-000105,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is MPS-1-IN-1. The drug SMILES structure is CC(C)S(=O)(=O)C1=CC=CC=C1NC2=CC(=NC3=C2C=CN3)NC4=C(C=C(C=C4)N5CCC(CC5)O)OC. Drug target is MPS1. Drug target pathway is Mitosis.
+The mutations of the cell line are ERBB4, GNAS, NOTCH1, SDHA, SPEN, WT1.
+Drug Sensitivity: ?",Resistant,
+ACH-000105,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is EX-527. The drug SMILES structure is C1CC(C2=C(C1)C3=C(N2)C=CC(=C3)Cl)C(=O)N. Drug target is SIRT1. Drug target pathway is Chromatin histone acetylation.
+The mutations of the cell line are ERBB4, GNAS, NOTCH1, SDHA, SPEN, WT1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000105,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is TALAZOPARIB. The drug SMILES structure is CN1C(=NC=N1)[C@@H]2[C@H](N=C3C=C(C=C4C3=C2NNC4=O)F)C5=CC=C(C=C5)F. Drug target is PARP1, PARP2. Drug target pathway is Genome integrity.
+The mutations of the cell line are ERBB4, GNAS, NOTCH1, SDHA, SPEN, WT1.
+Drug Sensitivity: ?",Resistant,
+ACH-000105,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is GEFITINIB. The drug SMILES structure is COC1=C(C=C2C(=C1)N=CN=C2NC3=CC(=C(C=C3)F)Cl)OCCCN4CCOCC4. Drug target is EGFR. Drug target pathway is EGFR signaling.
+The mutations of the cell line are ERBB4, GNAS, NOTCH1, SDHA, SPEN, WT1.
+Drug Sensitivity: ?",Resistant,
+ACH-000105,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is SALUBRINAL. The drug SMILES structure is C1=CC=C(C=C1)C=CC(=O)NC(C(Cl)(Cl)Cl)NC(=S)NC2=CC=CC3=C2N=CC=C3. Drug target is EIF2A. Drug target pathway is Other.
+The mutations of the cell line are ERBB4, GNAS, NOTCH1, SDHA, SPEN, WT1.
+Drug Sensitivity: ?",Resistant,
+ACH-000105,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is FLUDARABINE. The drug SMILES structure is C1=NC2=C(N=C(N=C2N1[C@H]3[C@H]([C@@H]([C@H](O3)CO)O)O)F)N. Drug target is Antimetabolite. Drug target pathway is DNA replication.
+The mutations of the cell line are ERBB4, GNAS, NOTCH1, SDHA, SPEN, WT1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000105,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is AZD3759. The drug SMILES structure is C[C@@H]1CN(CCN1C(=O)OC2=C(C=C3C(=C2)C(=NC=N3)NC4=C(C(=CC=C4)Cl)F)OC)C. Drug target is EGFR. Drug target pathway is EGFR signaling.
+The mutations of the cell line are ERBB4, GNAS, NOTCH1, SDHA, SPEN, WT1.
+Drug Sensitivity: ?",Resistant,
+ACH-000105,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is GSK269962. The drug SMILES structure is CCN1C2=CC(=NC=C2N=C1C3=NON=C3N)OC4=CC=CC(=C4)NC(=O)C5=CC=C(C=C5)OCCN6CCOCC6. Drug target is ROCK1, ROCK2. Drug target pathway is Cytoskeleton.
+The mutations of the cell line are ERBB4, GNAS, NOTCH1, SDHA, SPEN, WT1.
+Drug Sensitivity: ?",Resistant,
+ACH-000105,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is DMOG. The drug SMILES structure is COC(=O)CNC(=O)C(=O)OC. Drug target is HIF-PH. Drug target pathway is Metabolism.
+The mutations of the cell line are ERBB4, GNAS, NOTCH1, SDHA, SPEN, WT1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000105,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is OTX015. The drug SMILES structure is CC1=C(SC2=C1C(=N[C@H](C3=NN=C(N32)C)CC(=O)NC4=CC=C(C=C4)O)C5=CC=C(C=C5)Cl)C. Drug target is BRD2, BRD3, BRD4. Drug target pathway is Chromatin other.
+The mutations of the cell line are ERBB4, GNAS, NOTCH1, SDHA, SPEN, WT1.
+Drug Sensitivity: ?",Resistant,
+ACH-000105,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is YM-201636. The drug SMILES structure is C1COCCN1C2=NC(=NC3=C2OC4=C3C=CC=N4)C5=CC(=CC=C5)NC(=O)C6=CN=C(C=C6)N. Drug target is PIKFYVE. Drug target pathway is PI3K/MTOR signaling.
+The mutations of the cell line are ERBB4, GNAS, NOTCH1, SDHA, SPEN, WT1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000105,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is NSC-319726. The drug SMILES structure is CC(=NNC(=S)N1CCC1)C2=CC=CC=N2. Drug target is Unknown. Drug target pathway is Unknown.
+The mutations of the cell line are ERBB4, GNAS, NOTCH1, SDHA, SPEN, WT1.
+Drug Sensitivity: ?",Resistant,
+ACH-000105,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is PI-103. The drug SMILES structure is C1COCCN1C2=NC(=NC3=C2OC4=C3C=CC=N4)C5=CC(=CC=C5)O. Drug target is PI3Kalpha, DAPK3, CLK4, PIM3, HIPK2. Drug target pathway is Other, kinases.
+The mutations of the cell line are ERBB4, GNAS, NOTCH1, SDHA, SPEN, WT1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000105,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is LEFLUNOMIDE. The drug SMILES structure is CC1=C(C=NO1)C(=O)NC2=CC=C(C=C2)C(F)(F)F. Drug target is Pyrimidine synthesis inhibitor. Drug target pathway is DNA replication.
+The mutations of the cell line are ERBB4, GNAS, NOTCH1, SDHA, SPEN, WT1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000105,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is FORETINIB. The drug SMILES structure is COC1=CC2=C(C=CN=C2C=C1OCCCN3CCOCC3)OC4=C(C=C(C=C4)NC(=O)C5(CC5)C(=O)NC6=CC=C(C=C6)F)F. Drug target is MET, KDR, TIE2, VEGFR3/FLT4, RON, PDGFR, FGFR1, EGFR. Drug target pathway is RTK signaling.
+The mutations of the cell line are ERBB4, GNAS, NOTCH1, SDHA, SPEN, WT1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000105,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is MASITINIB. The drug SMILES structure is CC1=C(C=C(C=C1)NC(=O)C2=CC=C(C=C2)CN3CCN(CC3)C)NC4=NC(=CS4)C5=CN=CC=C5. Drug target is KIT, PDGFRA, PDGFRB. Drug target pathway is RTK signaling.
+The mutations of the cell line are ERBB4, GNAS, NOTCH1, SDHA, SPEN, WT1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000105,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is GSK1059615. The drug SMILES structure is C1=CC2=NC=CC(=C2C=C1C=C3C(=O)NC(=O)S3)C4=CC=NC=C4. Drug target is PI3K. Drug target pathway is PI3K/MTOR signaling.
+The mutations of the cell line are ERBB4, GNAS, NOTCH1, SDHA, SPEN, WT1.
+Drug Sensitivity: ?",Resistant,
+ACH-000105,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is QL-VIII-58. The drug SMILES structure is NC1=NC=C(C=N1)C1=CC=C2N=CC3=C(N(C(=O)C=C3)C3=CC(Cl)=C(C=C3)N3CCNCC3)C2=C1. Drug target is MTOR, ATR. Drug target pathway is Other.
+The mutations of the cell line are ERBB4, GNAS, NOTCH1, SDHA, SPEN, WT1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000105,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is MK-8776. The drug SMILES structure is CN1C=C(C=N1)C2=C3N=C(C(=C(N3N=C2)N)Br)C4CCCNC4. Drug target is CHEK1, CHEK2, CDK2. Drug target pathway is Cell cycle.
+The mutations of the cell line are ERBB4, GNAS, NOTCH1, SDHA, SPEN, WT1.
+Drug Sensitivity: ?",Resistant,
+ACH-000105,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is AZD4547. The drug SMILES structure is C[C@@H]1CN(C[C@@H](N1)C)C2=CC=C(C=C2)C(=O)NC3=NNC(=C3)CCC4=CC(=CC(=C4)OC)OC. Drug target is FGRF1, FGFR2, FGFR3. Drug target pathway is RTK signaling.
+The mutations of the cell line are ERBB4, GNAS, NOTCH1, SDHA, SPEN, WT1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000105,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is CEDIRANIB. The drug SMILES structure is CC1=CC2=C(N1)C=CC(=C2F)OC3=NC=NC4=CC(=C(C=C43)OC)OCCCN5CCCC5. Drug target is VEGFR, FLT1, FLT2, FLT3, FLT4, KIT, PDGFRB. Drug target pathway is RTK signaling.
+The mutations of the cell line are ERBB4, GNAS, NOTCH1, SDHA, SPEN, WT1.
+Drug Sensitivity: ?",Resistant,
+ACH-000105,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is BRYOSTATIN-1. The drug SMILES structure is CCCC=CC=CC(=O)OC1C(=CC(=O)OC)CC2CC(OC(=O)CC(CC3CC(C(C(O3)(CC4CC(=CC(=O)OC)CC(O4)C=CC(C1(O2)O)(C)C)O)(C)C)OC(=O)C)O)C(C)O. Drug target is Unknown. Drug target pathway is Unknown.
+The mutations of the cell line are ERBB4, GNAS, NOTCH1, SDHA, SPEN, WT1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000105,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is WYE-125132. The drug SMILES structure is CNC(=O)NC1=CC=C(C=C1)C2=NC3=C(C=NN3C4CCC5(CC4)OCCO5)C(=N2)N6CC7CCC(C6)O7. Drug target is mTOR. Drug target pathway is PI3K/MTOR signaling.
+The mutations of the cell line are ERBB4, GNAS, NOTCH1, SDHA, SPEN, WT1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000105,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is KB NB 142-70. The drug SMILES structure is C1CSC2=C(C(=O)N1)SC3=C2C=C(C=C3)O. Drug target is PKD. Drug target pathway is Other, kinases.
+The mutations of the cell line are ERBB4, GNAS, NOTCH1, SDHA, SPEN, WT1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000105,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is CPI-613. The drug SMILES structure is C1=CC=C(C=C1)CSCCC(CCCCC(=O)O)SCC2=CC=CC=C2. Drug target is Metabo, Mitochondria. Drug target pathway is Other.
+The mutations of the cell line are ERBB4, GNAS, NOTCH1, SDHA, SPEN, WT1.
+Drug Sensitivity: ?",Sensitive,
+ACH-000105,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is SPHINGOSINE KINASE 1 INHIBITOR II. The drug SMILES structure is CC1=CC(=CC(=C1)OCC2=CC=C(C=C2)CN3CCC[C@@H]3CO)CS(=O)(=O)C4=CC=CC=C4. Drug target is Sphingosine Kinase. Drug target pathway is Other, kinases.
+The mutations of the cell line are ERBB4, GNAS, NOTCH1, SDHA, SPEN, WT1.
+Drug Sensitivity: ?",Resistant,
+ACH-000105,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is SGC0946. The drug SMILES structure is CC(C)N(CCCNC(=O)NC1=CC=C(C=C1)C(C)(C)C)CC2C(C(C(O2)N3C=C(C4=C(N=CN=C43)N)Br)O)O. Drug target is DOT1L. Drug target pathway is Chromatin histone methylation.
+The mutations of the cell line are ERBB4, GNAS, NOTCH1, SDHA, SPEN, WT1.
+Drug Sensitivity: ?",Resistant,
+ACH-000107,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is AGI-6780. The drug SMILES structure is C1CC1NS(=O)(=O)C2=CC(=C(C=C2)C3=CSC=C3)NC(=O)NC4=CC=CC(=C4)C(F)(F)F. Drug target is IDH2(R140Q). Drug target pathway is Metabolism.
+The mutations of the cell line are ABL1, CDKN2A, FANCC, KRAS, RNF43, TP53.
+Drug Sensitivity: ?",Sensitive,
+ACH-000107,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is AZD8931. The drug SMILES structure is CNC(=O)CN1CCC(CC1)OC2=C(C=C3C(=C2)C(=NC=N3)NC4=C(C(=CC=C4)Cl)F)OC. Drug target is EGFR, ERBB2, ERBB3. Drug target pathway is RTK signaling.
+The mutations of the cell line are ABL1, CDKN2A, FANCC, KRAS, RNF43, TP53.
+Drug Sensitivity: ?",Sensitive,
+ACH-000107,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is IMATINIB. The drug SMILES structure is CC1=C(C=C(C=C1)NC(=O)C2=CC=C(C=C2)CN3CCN(CC3)C)NC4=NC=CC(=N4)C5=CN=CC=C5. Drug target is ABL, KIT, PDGFR. Drug target pathway is Other, kinases.
+The mutations of the cell line are ABL1, CDKN2A, FANCC, KRAS, RNF43, TP53.
+Drug Sensitivity: ?",Sensitive,
+ACH-000107,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is LINSITINIB. The drug SMILES structure is CC1(CC(C1)C2=NC(=C3N2C=CN=C3N)C4=CC5=C(C=C4)C=CC(=N5)C6=CC=CC=C6)O. Drug target is IGF1R. Drug target pathway is IGF1R signaling.
+The mutations of the cell line are ABL1, CDKN2A, FANCC, KRAS, RNF43, TP53.
+Drug Sensitivity: ?",Sensitive,
+ACH-000107,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is LINIFANIB. The drug SMILES structure is CC1=CC(=C(C=C1)F)NC(=O)NC2=CC=C(C=C2)C3=C4C(=CC=C3)NN=C4N. Drug target is VEGFR1, VEGFR2, VEGFR3, CSF1R, FLT3, KIT. Drug target pathway is RTK signaling.
+The mutations of the cell line are ABL1, CDKN2A, FANCC, KRAS, RNF43, TP53.
+Drug Sensitivity: ?",Sensitive,
+ACH-000107,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is LFM-A13. The drug SMILES structure is CC(=C(C#N)C(=O)NC1=C(C=CC(=C1)Br)Br)O. Drug target is BTK. Drug target pathway is Other, kinases.
+The mutations of the cell line are ABL1, CDKN2A, FANCC, KRAS, RNF43, TP53.
+Drug Sensitivity: ?",Resistant,
+ACH-000107,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is TIVOZANIB. The drug SMILES structure is CC1=CC(=NO1)NC(=O)NC2=C(C=C(C=C2)OC3=C4C=C(C(=CC4=NC=C3)OC)OC)Cl. Drug target is VEGFR1, VEGFR2, VEGFR3, PDGFR, KIT. Drug target pathway is RTK signaling.
+The mutations of the cell line are ABL1, CDKN2A, FANCC, KRAS, RNF43, TP53.
+Drug Sensitivity: ?",Sensitive,
+ACH-000107,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is LESTAURTINIB. The drug SMILES structure is C[C@@]12[C@](C[C@@H](O1)N3C4=CC=CC=C4C5=C6C(=C7C8=CC=CC=C8N2C7=C53)CNC6=O)(CO)O. Drug target is FLT3, JAK2, NTRK1, NTRK2, NTRK3. Drug target pathway is Other, kinases.
+The mutations of the cell line are ABL1, CDKN2A, FANCC, KRAS, RNF43, TP53.
+Drug Sensitivity: ?",Sensitive,
+ACH-000107,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is BVD-523. The drug SMILES structure is CC(C)NC1=NC=C(C(=C1)C2=CNC(=C2)C(=O)N[C@H](CO)C3=CC(=CC=C3)Cl)Cl. Drug target is ERK1, ERK2. Drug target pathway is ERK MAPK signaling.
+The mutations of the cell line are ABL1, CDKN2A, FANCC, KRAS, RNF43, TP53.
+Drug Sensitivity: ?",Resistant,
+ACH-000107,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is TANESPIMYCIN. The drug SMILES structure is CC1CC(C(C(C=C(C(C(C=CC=C(C(=O)NC2=CC(=O)C(=C(C1)C2=O)NCC=C)C)OC)OC(=O)N)C)C)O)OC. Drug target is HSP90. Drug target pathway is Protein stability and degradation.
+The mutations of the cell line are ABL1, CDKN2A, FANCC, KRAS, RNF43, TP53.
+Drug Sensitivity: ?",Resistant,
+ACH-000107,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is SALUBRINAL. The drug SMILES structure is C1=CC=C(C=C1)C=CC(=O)NC(C(Cl)(Cl)Cl)NC(=S)NC2=CC=CC3=C2N=CC=C3. Drug target is EIF2A. Drug target pathway is Other.
+The mutations of the cell line are ABL1, CDKN2A, FANCC, KRAS, RNF43, TP53.
+Drug Sensitivity: ?",Sensitive,
+ACH-000107,"Think step by step and decide in a single word reflecting the drug sensitivity of the drug on the cell line with given mutations: [Sensitive/Resistant], [Reasoning].
+Drug and cell line mutations: 
+The drug is AZ960. The drug SMILES structure is CC1=CC(=NN1)NC2=C(C=C(C(=N2)N[C@@H](C)C3=CC=C(C=C3)F)C#N)F. Drug target is JAK2, JAK3. Drug target pathway is Other, kinases.
+The mutations of the cell line are ABL1, CDKN2A, FANCC, KRAS, RNF43, TP53.
+Drug Sensitivity: ?",Sensitive,
