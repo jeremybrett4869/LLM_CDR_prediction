@@ -1,0 +1,2 @@
+/llm_prompt_data/train_prompt_data_task1.cav filter=lfs diff=lfs merge=lfs -text
+/llm_prompt_data/train_prompt_data_task1.csv filter=lfs diff=lfs merge=lfs -text
